@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Roboto&display=swap");
+
+@import url("component/container.css");
+@import url("component/avatar.css");
+@import url("component/button.css");
+@import url("component/banner.css");
+@import url("component/text.css");
+@import url("component/card.css");
+@import url("component/card-btn.css");
+
+
+
+body {
+	font-family: 'Nanum Gothic', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+	background-color: rgb(240, 240, 240);
+}
+
+h3 {
+	color: darkred;
+	font-size: 30px;
+}
+
+h2 {
+	font-size: 18px;
+}
+
+
+h1, h2, h3 {
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+}
+
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: darkgrey;
+}
